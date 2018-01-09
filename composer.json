@@ -1,5 +1,5 @@
 {
-    "name": "francisco/ecommerce-php7",
+    "name": "francisco/Ecommerce-PHP7",
     "description": "Projeto Ecommerce PHP7",
     "authors": [
         {
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\ecommerce-php7\\php-classes\\src"
+         "Code\\": "vendor\\ecommerce\\php-classes\\src"
         }
     }
 }
